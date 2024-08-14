@@ -1,4 +1,4 @@
-# Projetinho cálculo da base de cálculo do IR
+# Projetinho base de cálculo do IR
 
 Atenção: Ainda sou inciante em Python então haverão muitos erros por entre essas linhas de códigos. 
 
