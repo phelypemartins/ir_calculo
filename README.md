@@ -1,4 +1,4 @@
-# Projetinho cálculo de Imposto de Renda
+# Projetinho cálculo da base de cálculo do IR
 
 Atenção: Ainda sou inciante em Python então haverão muitos erros por entre essas linhas de códigos. 
 
@@ -9,7 +9,7 @@ Plataformas utilizadas:
 
 O programa calcula o salario base de acordo com o desconto do IR, relacionado a respectiva tabela do IR. Antes do programa, eu tinha que realizar o seguinte cálculo pela calculadora do windows:
 
-• (desconto_ir + dedução) / alíquota_ir = salario_base_ir (Sendo que a dedução é variada de acordo com o período analisado)
+• (desconto_ir + dedução) / alíquota_ir = base_calculo_ir (Sendo que a dedução é variada de acordo com o período analisado)
 
 ![image](https://github.com/user-attachments/assets/fcbcf3b5-5dae-4dcb-ba5c-c03a1f098fd3)
 
