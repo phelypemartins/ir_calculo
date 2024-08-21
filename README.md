@@ -2,8 +2,7 @@
 
 Atenção: Ainda sou inciante em Python então haverão muitos erros por entre essas linhas de códigos. 
 
-Plataformas utilizadas:
-• Google Colab
+Plataformas utilizadas: Google Colab
 
 ## O que esperar desse programa?
 
@@ -27,6 +26,6 @@ Na segunda versão, eu já trabalhei com dicionários. De acordo com que o curso
 
 ## O que espera-se ao fim desse programa?
 
-• Interface intuitiva com o usuário
-• Realizar o cálculo completo do IR
+• Interface intuitiva com o usuário \
+• Realizar o cálculo completo do IR \
 • Gerar o executável para rodar em qualquer computador
